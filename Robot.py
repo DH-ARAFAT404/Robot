@@ -1,5 +1,6 @@
 #ASSALAMUALAIKUM..Script Kenar Jonne Thanks,,,GAME Id Clone..
 import os
+os.system(f'xdg-open https://youtube.com/@Eyasin_Arafat_')
 print("\033[1;92m [•] ARAFAT CYBER (ROBOT) SYSTEM INSTALL. . . . \033[1;30m")
 os.system("pkg install espeak")
 print("\033[1;92m   [•] ROBOT INSTALL COMPLETE \033[1;30m")
